@@ -1,4 +1,3 @@
-from inspect import k
 
 from MaBase import *
 
